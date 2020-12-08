@@ -348,6 +348,7 @@ public class ManagerPosts {
                 private String QuantityAnswer;
                 private String ButtonLike;
                 private String ButtonClose;
+                private String IdAnswer;
 
                 public void setAuthorAnswer(String authorAnswer) {
                     AuthorAnswer = authorAnswer;
