@@ -1,4 +1,5 @@
 public class ManagerPosts {
+    // Здесь находится первое задание из дз
 
     ManagerPosts managerPosts = new ManagerPosts();
 
@@ -463,8 +464,6 @@ public class ManagerPosts {
         }
     }
 }
-
-// Здесь заканчивается первая часть дз, начинается задание 2
 
 
 
