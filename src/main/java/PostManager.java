@@ -19,7 +19,7 @@ private class Post{
         this.post_id = post_id;
     }
 
-        public void setOwner_id(String[] owner_id) {
+    public void setOwner_id(String[] owner_id) {
         this.owner_id = owner_id;
     }
 
