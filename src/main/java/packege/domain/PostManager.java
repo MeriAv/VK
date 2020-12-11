@@ -1,8 +1,9 @@
+package packege.domain;
+
 public class PostManager {
 
     Post post = new Post();
 
-private class Post{
     private String[] owner_id;
     private String[] domain;
     private String[] query;
@@ -66,7 +67,7 @@ private class Post{
     public String[] getOffset() {
         return offset;
     }
-}
+
 
     public Post[] Search(){
         this.Post();
